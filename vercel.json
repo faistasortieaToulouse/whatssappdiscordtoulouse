@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://communautetoulouse.appli-tolosa.workers.dev/",
-      "permanent": 301
+      "permanent": true
     }
   ]
 }
